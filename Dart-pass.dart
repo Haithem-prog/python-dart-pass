@@ -1,3 +1,4 @@
+//-----------first quetion answer.-----------
 main() {
   final hour = DateTime.now().hour;
   print(hour);
@@ -12,3 +13,4 @@ main() {
   but can have new values at run-time.
   
   */
+
