@@ -14,7 +14,7 @@ main() {
 */
 
 //-----------second question code----------
-class Animal{
+abstract class Animal{
   String names ="" ;
   String sounds = "";
   String types = "";
